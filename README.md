@@ -1,2 +1,2 @@
 # minicurso-python
-Minucurso de introduçaõ à programação com Python
+Minucurso de introdução à programação com Python
